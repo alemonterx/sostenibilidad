@@ -10,7 +10,11 @@
   5. Marco normativo y regulador de la sostenibilidad en Europa
   6.- Evaluación del desempeño en sostenibilidad de las empresas.
 Conclusiones
+
 Mapa conceptual (Herramientas utilizada)
+
 Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
+
 [Referencias](referencias.md)
+
 Autores
